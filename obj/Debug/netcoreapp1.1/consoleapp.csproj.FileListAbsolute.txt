@@ -1,0 +1,8 @@
+/mnt/c/Users/Njau/Development/consoleapp/bin/Debug/netcoreapp1.1/consoleapp.deps.json
+/mnt/c/Users/Njau/Development/consoleapp/bin/Debug/netcoreapp1.1/consoleapp.runtimeconfig.json
+/mnt/c/Users/Njau/Development/consoleapp/bin/Debug/netcoreapp1.1/consoleapp.runtimeconfig.dev.json
+/mnt/c/Users/Njau/Development/consoleapp/bin/Debug/netcoreapp1.1/consoleapp.dll
+/mnt/c/Users/Njau/Development/consoleapp/bin/Debug/netcoreapp1.1/consoleapp.pdb
+/mnt/c/Users/Njau/Development/consoleapp/obj/Debug/netcoreapp1.1/consoleapp.AssemblyInfo.cs
+/mnt/c/Users/Njau/Development/consoleapp/obj/Debug/netcoreapp1.1/consoleapp.dll
+/mnt/c/Users/Njau/Development/consoleapp/obj/Debug/netcoreapp1.1/consoleapp.pdb
