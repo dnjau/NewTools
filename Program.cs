@@ -6,7 +6,7 @@ namespace consoleapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Mambo number 5! " + 
+            Console.WriteLine("Hello World! Mambo number 6! " + 
             	System.Runtime.InteropServices.RuntimeInformation.OSDescription);
         }
     }
